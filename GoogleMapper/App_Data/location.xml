@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<locations>
+	<location name="Phoenix" lat="33.4500" lng="-112.0667"></location>
+	<location name="Chandler" lat="33.3000" lng="-111.8333"></location>
+	<location name="Gilbert" lat="33.3500" lng="-111.7892"></location>
+	<location name="Mesa" lat="33.4150" lng="-111.8314"></location>
+	<location name="Mesa" lat="33.5000" lng="-111.9333"></location>
+	<location name="Glendale" lat="34.1708" lng="-118.2500"></location>
+	<location name="Tempe" lat="33.4294" lng="-111.9431"></location>
+	<location name="Glendale" lat="33.5386" lng="-112.1864"></location>
+</locations>
